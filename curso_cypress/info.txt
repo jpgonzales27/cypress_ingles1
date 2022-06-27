@@ -1,0 +1,26 @@
+1- npm init
+2- npm install cypress --save-dev (intalar cypress)
+
+en caso de error
+2- npm install -g npx (instalar npx)
+2.1- npx cypress install --force
+
+3- node_modules\.bin\cypress open|run
+3- npx cypress open|run
+
+4- npm install -D cypress-xpath (instalar xpath)
+
+npx cypress run --header (corre todo desde el navegador de cypress)
+npx cypress run --browser chrome
+npx cypress run --spec "cypress/integration/seccion_2/asserts.js" (correr un archivo des de consola)
+npx cypress run --spec "cypress/integration/seccion_2/*" (correr todoss los archivos de la carpeta de consola)
+
+
+npm init -- para el package.json
+npm install -- para restaurar el node_module
+npm start -- ejecutar el script 
+
+
+crtl + p | crtl + shift + p
+>snippets 
+seleccionar javascript

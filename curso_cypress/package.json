@@ -1,0 +1,17 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "cursobasico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Pablo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.0.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^1.6.2"
+  }
+}

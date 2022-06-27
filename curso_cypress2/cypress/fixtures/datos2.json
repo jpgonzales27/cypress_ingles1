@@ -1,0 +1,32 @@
+[
+    {
+        "nombre":"juan",
+        "email":"j@gmail.com",
+        "dir1":"direccion uno",
+        "dir2":"direccion dos"
+    },
+    {
+        "nombre":"Ana",
+        "email":"a@gmail.com",
+        "dir1":"direccion uno",
+        "dir2":"direccion dos"
+    },
+    {
+        "nombre":"pedro",
+        "email":"p@gmail.com",
+        "dir1":"direccion uno",
+        "dir2":"direccion dos"
+    },
+    {
+        "nombre":"marcos",
+        "email":"m@gmail.com",
+        "dir1":"direccion uno",
+        "dir2":"direccion dos"
+    },
+    {
+        "nombre":"jose",
+        "email":"jo@gmail.com",
+        "dir1":"direccion uno",
+        "dir2":"direccion dos"
+    }
+]

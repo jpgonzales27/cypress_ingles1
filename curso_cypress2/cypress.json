@@ -1,0 +1,8 @@
+{
+    "ignoreTestFiles": ["**/1-getting-started/*","**/2-advanced-examples/*","**/seccion_1/*","**/seccion_2/*"],
+    "viewportWidth": 1400,
+    "viewportHeight": 960,
+    "chromeWebSecurity":false,
+    "theme": "dark",
+    "watchForFileChanges": false
+}
